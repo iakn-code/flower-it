@@ -54,7 +54,7 @@ html {
   
   /* メイン */
   #hero {
-      background-image: url(../inages/top.jpg);
+      background-image: url(inages/top.jpg);
       background-position: center;
       background-size: cover;
       height: 540px;
@@ -121,7 +121,7 @@ html {
       line-height: 2;
   }
   .concept-img {
-      background-image: url(../inages/fast.jpg);
+      background-image: url(inages/fast.jpg);
       background-position: center;
       background-size: cover;
       height: 340px;
@@ -222,7 +222,7 @@ html {
   }
   
   .column-a {
-      background-image: url(../inages/bottom01.jpg);
+      background-image: url(inages/bottom01.jpg);
       background-position: center;
       background-size: cover;
       width: 24%;
@@ -230,7 +230,7 @@ html {
       border-radius: 20px;
   }
   .column-b {
-      background-image: url(../inages/bottom02.jpg);
+      background-image: url(inages/bottom02.jpg);
       background-position: center;
       background-size: cover;
       width: 24%;
@@ -238,7 +238,7 @@ html {
       border-radius: 20px;
   }
   .column-c {
-      background-image: url(../inages/bottom03.jpg);
+      background-image: url(inages/bottom03.jpg);
       background-position: center;
       background-size: cover;
       width: 24%;
@@ -246,7 +246,7 @@ html {
       border-radius: 20px;
   }
   .column-d {
-      background-image: url(../inages/bottom04.jpg);
+      background-image: url(inages/bottom04.jpg);
       background-position: center;
       background-size: cover;
       width: 24%;
